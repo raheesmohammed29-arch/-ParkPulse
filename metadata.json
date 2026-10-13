@@ -1,0 +1,8 @@
+{
+  "name": "Remix ParkPulse - Smart Parking Management System",
+  "description": "Enterprise-grade smart parking platform with visual slot layout, real-time availability, instant reservations, and admin control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
